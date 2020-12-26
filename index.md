@@ -27,7 +27,7 @@ title: TOP
   <h2>MUSIC</h2>
   <div class="box alt">
     <div class="row uniform">
-      <div class="2u"><a href="https://twitter.com/c6cl_" target="_blank" rel="noopener noreferrer"><span class="image fit"><h4>SoundCloud</h4><img src="images/top_soundcloud.jpg" alt="SoundCloud"/></span></a></div>
+      <div class="2u"><a href="https://soundcloud.com/cookie_1dsprst" target="_blank" rel="noopener noreferrer"><span class="image fit"><h4>SoundCloud</h4><img src="images/top_soundcloud.jpg" alt="SoundCloud"/></span></a></div>
     </div>
   </div>
 </header>
