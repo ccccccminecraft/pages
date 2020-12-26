@@ -11,14 +11,6 @@ title: TOP
   <p>
     各種ゲームの活動、楽曲やBMSのダウンロード、Minecraftサーバー等の情報があります。
   </p>
-  <h2>CONTACT</h2>
-  <div class="box alt">
-    <div class="row uniform">
-      <div class="3u 6u(medium)"><a href="./discord"><span class="image fit"><strong>Discord</strong><img src="images/top_discord.jpg" alt="Discord"/></span></a></div>
-      <div class="3u 6u$(medium)"><a href="https://twitter.com/c6cl_" target="_blank" rel="noopener noreferrer"><span class="image fit"><strong>Twitter(GAME)</strong><img src="images/top_wm.jpeg" alt="twitter_c6"/></span></a></div>
-      <div class="3u 6u(medium)"><a href="https://twitter.com/COOK_iE_" target="_blank" rel="noopener noreferrer"><span class="image fit"><strong>Twitter(Music)</strong><img src="images/top_twitter_cl.png" alt="twitter_cl"/></span></a></div>
-    </div>
-  </div>
   <h2>GAMES</h2>
   <div class="box alt">
     <div class="row uniform">
@@ -37,6 +29,14 @@ title: TOP
       <div class="2u 6u(medium)"><a href="https://soundcloud.com/cookie_1dsprst" target="_blank" rel="noopener noreferrer"><span class="image fit"><strong>SoundCloud</strong><img src="images/top_soundcloud.jpg" alt="SoundCloud"/></span></a></div>
       <div class="2u 6u$(medium)"><a href="https://bmssearch.net/artist?id=1482" target="_blank" rel="noopener noreferrer"><span class="image fit"><strong>BMS DOWNLOAD</strong><img src="images/top_bms.png" alt="BMS"/></span></a></div>
       <div class="2u 6u(medium)"><a href="https://www.nicovideo.jp/mylist/57751393" target="_blank" rel="noopener noreferrer"><span class="image fit"><strong>nico nico</strong><img src="images/top_nico.png" alt="niconico"/></span></a></div>
+    </div>
+  </div>
+  <h2>CONTACT</h2>
+  <div class="box alt">
+    <div class="row uniform">
+      <div class="3u 6u(medium)"><a href="./discord"><span class="image fit"><strong>Discord</strong><img src="images/top_discord.jpg" alt="Discord"/></span></a></div>
+      <div class="3u 6u$(medium)"><a href="https://twitter.com/c6cl_" target="_blank" rel="noopener noreferrer"><span class="image fit"><strong>Twitter(GAME)</strong><img src="images/top_wm.jpeg" alt="twitter_c6"/></span></a></div>
+      <div class="3u 6u(medium)"><a href="https://twitter.com/COOK_iE_" target="_blank" rel="noopener noreferrer"><span class="image fit"><strong>Twitter(Music)</strong><img src="images/top_twitter_cl.png" alt="twitter_cl"/></span></a></div>
     </div>
   </div>
 </header>
