@@ -5,6 +5,7 @@ title: 音ゲーのページ
 
 <header>
   <h1>MUSIC GAMES</h1>
+  <p>メインは2DXですいろいろやります。</p>
   <p>ライバル登録等お待ちしております。</p>
   <div class="table-wrapper">
 <table>
@@ -30,6 +31,11 @@ title: 音ゲーのページ
 <td>DANCE DANCE REVOLTION A20</td>
 <td>九段/七段</td>
 <td>41237193</td>
+</tr>
+<tr>
+<td>BMS(beat oraja)</td>
+<td>★三段</td>
+<td>mocha-repository https://mocha-repository.info/player.php?id=1497</td>
 </tr>
 </tfoot>
 </table>
