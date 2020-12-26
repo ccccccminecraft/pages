@@ -33,7 +33,7 @@ title: 音ゲーのページ
       <td>41237193</td>
     </tr>
     <tr>
-      <td>BMS(beat oraja)</td>
+      <td>BMS(oraja)</td>
       <td>★三段</td>
       <td><a href="https://mocha-repository.info/player.php?id=1497" target="_blank" rel="noopener noreferrer">mocha-repository</a></td>
     </tr>
