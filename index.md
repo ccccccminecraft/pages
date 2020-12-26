@@ -11,6 +11,9 @@ title: TOP
   <p>
     各種ゲームの活動、楽曲やBMSのダウンロード、Minecraftサーバー等の情報があります。
   </p>
+  <p>
+    まだ書いてないページがあるよ。ごめんね。
+  </p>
   <h2>GAMES</h2>
   <div class="box alt">
     <div class="row uniform">
