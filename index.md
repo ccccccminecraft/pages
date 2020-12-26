@@ -9,9 +9,9 @@ title: TOP
   <h2>CONTACT</h2>
   <div class="box alt">
     <div class="row uniform">
-      <div class="2u"><span class="image fit"><h4>Discord</h4><img src="images/top_discord.jpg" alt="Discord"/></span></div>
-      <div class="2u"><a href="https://twitter.com/c6cl_" target="_blank" rel="noopener noreferrer"><span class="image fit"><h4>Twitter(GAME)</h4><img src="images/top_twitter_c6.png" alt="twitter_c6"/></span></a></div>
-      <div class="2u"><a href="https://twitter.com/COOK_iE_" target="_blank" rel="noopener noreferrer"><span class="image fit"><h4>Twitter(Music)</h4><img src="images/top_twitter_cl.png" alt="twitter_cl"/></span></a></div>
+      <div class="2u"><span class="image fit"><strong>Discord</strong><img src="images/top_discord.jpg" alt="Discord"/></span></div>
+      <div class="2u"><a href="https://twitter.com/c6cl_" target="_blank" rel="noopener noreferrer"><span class="image fit"><strong>Twitter(GAME)</strong><img src="images/top_twitter_c6.png" alt="twitter_c6"/></span></a></div>
+      <div class="2u"><a href="https://twitter.com/COOK_iE_" target="_blank" rel="noopener noreferrer"><span class="image fit"><strong>Twitter(Music)</strong><img src="images/top_twitter_cl.png" alt="twitter_cl"/></span></a></div>
     </div>
   </div>
   <h2>GAMES</h2>
@@ -28,7 +28,7 @@ title: TOP
   <h2>MUSIC</h2>
   <div class="box alt">
     <div class="row uniform">
-      <div class="2u"><a href="https://soundcloud.com/cookie_1dsprst" target="_blank" rel="noopener noreferrer"><span class="image fit"><h4>SoundCloud</h4><img src="images/top_soundcloud.jpg" alt="SoundCloud"/></span></a></div>
+      <div class="2u"><a href="https://soundcloud.com/cookie_1dsprst" target="_blank" rel="noopener noreferrer"><span class="image fit"><strong>SoundCloud</strong><img src="images/top_soundcloud.jpg" alt="SoundCloud"/></span></a></div>
     </div>
   </div>
 </header>
