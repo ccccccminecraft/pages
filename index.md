@@ -8,9 +8,6 @@ title: TOP
   <p>
     いろいろなゲームをやりすぎているのでまとめています。
   </p>
-  <p>
-    アイコンクリックでゲームのページに飛びます。
-  </p>
   <h2>CONTACT</h2>
   <div class="box alt">
     <div class="row uniform">
