@@ -1,8 +1,15 @@
 ---
 layout: default
-title: Home
+title: TOP
 ---
 
 <header>
-AAAA
+いろいろ書く
+  
+いろいろ書く
+
+いろいろ書く
+いろいろ書く
+いろいろ書く
+いろいろ書く
 </header>
