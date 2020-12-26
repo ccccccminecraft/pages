@@ -14,7 +14,7 @@ title: TOP
   <h2>CONTACT</h2>
   <div class="box alt">
     <div class="row uniform">
-      <div class="3u 6u(medium)"><span class="image fit"><strong>Discord</strong><img src="images/top_discord.jpg" alt="Discord"/></span></div>
+      <div class="3u 6u(medium)"><a href="./discord"><span class="image fit"><strong>Discord</strong><img src="images/top_discord.jpg" alt="Discord"/></span></a></div>
       <div class="3u 6u$(medium)"><a href="https://twitter.com/c6cl_" target="_blank" rel="noopener noreferrer"><span class="image fit"><strong>Twitter(GAME)</strong><img src="images/top_wm.jpeg" alt="twitter_c6"/></span></a></div>
       <div class="3u 6u(medium)"><a href="https://twitter.com/COOK_iE_" target="_blank" rel="noopener noreferrer"><span class="image fit"><strong>Twitter(Music)</strong><img src="images/top_twitter_cl.png" alt="twitter_cl"/></span></a></div>
     </div>
