@@ -20,11 +20,11 @@ title: TOP
   <h2>GAMES</h2>
   <div class="box alt">
     <div class="row uniform">
-      <div class="2u"><span class="image fit"><img src="images/top_steam.png" alt="steam" /></span></div>
+      <div class="2u"><a href="https://steamcommunity.com/id/CCCCCC_/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="images/top_steam.png" alt="steam" /></span></a></div>
       <div class="2u"><span class="image fit"><img src="images/top_vrc.jpg" alt="vrc" /></span></div>
       <div class="2u$"><span class="image fit"><img src="images/top_minecraft.png" alt="minecraft" /></span></div>
       <div class="2u"><span class="image fit"><img src="images/Apexlegends_logo.png" alt="apex" /></span></div>
-      <div class="2u"><a href="https://hiroba.dqx.jp/sc/character/503265589265/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="images/top_dqx.png" alt="dqx" /></span></div>
+      <div class="2u"><a href="https://hiroba.dqx.jp/sc/character/503265589265/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="images/top_dqx.png" alt="dqx" /></span></a></div>
       <div class="2u"><span class="image fit"><img src="images/top_pso.png" alt="pso2" /></span></div>
     </div>
   </div>
