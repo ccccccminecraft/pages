@@ -37,6 +37,7 @@ title: 音ゲーのページ
       <td>★三段</td>
       <td><a href="https://mocha-repository.info/player.php?id=1497" target="_blank" rel="noopener noreferrer">mocha-repository</a></td>
     </tr>
+  </tbody>
   </table>
 </div>
 </body>
