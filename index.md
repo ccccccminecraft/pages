@@ -8,6 +8,9 @@ title: TOP
   <p>
     いろいろなゲームをやりすぎているのでまとめています。
   </p>
+  <p>
+     一気にやると死ぬので、頻度の高いゲームから少しずつ増やしていけたらなと思います。
+  </p>
   <h2>CONTACT</h2>
   <div class="box alt">
     <div class="row uniform">
