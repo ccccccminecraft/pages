@@ -11,7 +11,7 @@ title: 音ゲーのページ
 <table>
   <thead>
     <tr>
-      <th>GAME</th>
+      <th>タイトル</th>
       <th>段位</th>
       <th>ID</th>
     </tr>
