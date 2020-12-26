@@ -5,7 +5,10 @@ title: TOP
 
 <header>
   <h1>HOME</h1>
-  <p>いろいろなゲームをやりすぎているのでまとめています。</p>
+  <p>
+    いろいろなゲームをやりすぎているのでまとめています。</br>
+    アイコンクリックでゲームのページに飛びます。
+  </p>
   <h2>CONTACT</h2>
   <div class="box alt">
     <div class="row uniform">
