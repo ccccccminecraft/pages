@@ -21,8 +21,8 @@ title: TOP
       <div class="2u 4u(medium)"><a href="https://vrchat.com/home/user/usr_fa3b94bc-9b09-48d4-9636-a13c65bea25b" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="images/top_vrc.jpg" alt="vrc" /></span></a></div>
       <div class="2u 4u$(medium)"><span class="image fit"><img src="images/top_minecraft.png" alt="minecraft" /></span></div>
       <div class="2u 4u(medium)"><a href="./bemani"><span class="image fit"><img src="images/top_bemani.jpg" alt="2dx" /></span></a></div>
-      <div class="2u$ 4u$(medium)"><a href="https://hiroba.dqx.jp/sc/character/503265589265/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="images/top_dqx.png" alt="dqx" /></span></a></div>
-      <div class="2u 4u(medium)"><span class="image fit"><img src="images/top_pso.png" alt="pso2" /></span></div>
+      <div class="2u 4u(medium)"><a href="https://hiroba.dqx.jp/sc/character/503265589265/" target="_blank" rel="noopener noreferrer"><span class="image fit"><img src="images/top_dqx.png" alt="dqx" /></span></a></div>
+      <div class="2u$ 4u$(medium)"><span class="image fit"><img src="images/top_pso.png" alt="pso2" /></span></div>
     </div>
   </div>
   <h2>MUSIC</h2>
