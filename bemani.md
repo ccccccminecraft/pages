@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 音ゲーのページ
+title: 音ゲー
 ---
 
 <body>
-  <h1>MUSIC GAMES</h1>
+  <h1>音ゲー</h1>
   <p>メインは2DXですいろいろやります。</p>
   <p>ライバル登録等お待ちしております。</p>
 <div class="table-wrapper">
