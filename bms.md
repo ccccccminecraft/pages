@@ -19,7 +19,7 @@ title: BMS
         イベント
       </th>
       <th>
-        ダウンロード
+        DL
       </th>
     </tr>
   </thead>
