@@ -29,7 +29,7 @@ title: TOP
   <div class="box alt">
     <div class="row uniform">
       <div class="2u 6u(medium)"><a href="https://soundcloud.com/cookie_1dsprst" target="_blank" rel="noopener noreferrer"><span class="image fit"><strong>SoundCloud</strong><img src="images/top_soundcloud.jpg" alt="SoundCloud"/></span></a></div>
-      <div class="2u 6u$(medium)"><a href="./bms" target="_blank" rel="noopener noreferrer"><span class="image fit"><strong>BMS DOWNLOAD</strong><img src="images/top_bms.png" alt="BMS"/></span></a></div>
+      <div class="2u 6u$(medium)"><a href="./bms"><span class="image fit"><strong>BMS DOWNLOAD</strong><img src="images/top_bms.png" alt="BMS"/></span></a></div>
       <div class="2u 6u(medium)"><a href="https://www.nicovideo.jp/mylist/57751393" target="_blank" rel="noopener noreferrer"><span class="image fit"><strong>niconico</strong><img src="images/top_nico.png" alt="niconico"/></span></a></div>
     </div>
   </div>
