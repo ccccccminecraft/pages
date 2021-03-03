@@ -24,7 +24,7 @@ title: 音ゲー
     </tr>
     <tr>
       <td>beatmania2DX 28 VISTROVER</td>
-      <td>八段</td>
+      <td>中伝</td>
       <td>2434-0816</td>
     </tr>
     <tr>
