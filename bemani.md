@@ -19,7 +19,7 @@ title: 音ゲー
   <tbody>
     <tr>
       <td>beatmania2DX INFINITAS</td>
-      <td>中伝/三段</td>
+      <td>皆伝/三段</td>
       <td>C-6661-7640-8171</td>
     </tr>
     <tr>
